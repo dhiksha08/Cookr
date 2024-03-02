@@ -1,1 +1,1 @@
-### Cookr Hackathon 2024
+## Cookr Hackathon 2024
